@@ -1,0 +1,11 @@
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApplication.deps.json
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApplication.runtimeconfig.json
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApplication.runtimeconfig.dev.json
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApplication.dll
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\bin\Debug\netcoreapp2.1\MovieApplication.pdb
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.csprojAssemblyReference.cache
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.csproj.CoreCompileInputs.cache
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.AssemblyInfoInputs.cache
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.AssemblyInfo.cs
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.dll
+C:\Users\tec\Desktop\ProjectFolder\MovieApp\MovieApp\obj\Debug\netcoreapp2.1\MovieApplication.pdb

@@ -1,0 +1,10 @@
+﻿@model MoviesListViewModel
+
+    <h1>@Model.CurrentGenre</h1>
+    <div class="row">
+        @foreach (var Movies in Model.Movies)
+        {
+
+            @await Html.PartialAsync("MovieOverviewSummary", Movies)
+        }
+    </div>
