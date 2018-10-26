@@ -43,7 +43,7 @@ namespace MovieApp
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
 
-            DbInitializer.Seed(app);
+            //DbInitializer.Seed(app);
         }
     }
 }
